@@ -1,0 +1,2 @@
+# Manifesty
+Manifesty Meteor App
